@@ -1,4 +1,0 @@
-This keyword is the reference to the current object within a method or a constructor
-
-It is primarily used in context of instance methods and constructors to refer to the
-object on which the method is invoked or the object being constructed.
